@@ -1,0 +1,3 @@
+CFILES += write_reg.c
+CFILES += sig_exchange_lib/sig_lib.c
+CFILES += tbv_lib/tbv.c
